@@ -4,9 +4,9 @@ version = "0.1.0"
 description = "NHL Stats API"
 authors = ["munsterberg <jetrussell93@gmail.com>"]
 license = "MIT"
-readme = "README.rst"
-homepage = "https://github.com/Munsterberg"
-repository = "https://github.com/Munsterberg"
+readme = "README.md"
+homepage = "https://github.com/Munsterberg/nhl_statsapi"
+repository = "https://github.com/Munsterberg/nhl_statsapi"
 keywords = ["nhl", "api", "hockey", "stats"]
 
 [tool.poetry.dependencies]
